@@ -1,4 +1,4 @@
-<img width="870em" src="https://document-export.canva.com/9ie28/DAEvRn9ie28/149/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20211110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211110T211559Z&X-Amz-Expires=64137&X-Amz-Signature=62940fc2e7a64816bcbdd6286ed20d5e3b529384d21e5997c3da01e58ce68c56&X-Amz-SignedHeaders=host&response-expires=Thu%2C%2011%20Nov%202021%2015%3A04%3A56%20GMT"/>
+<img src="https://document-export.canva.com/9ie28/DAEvRn9ie28/149/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20211110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211110T211559Z&X-Amz-Expires=64137&X-Amz-Signature=62940fc2e7a64816bcbdd6286ed20d5e3b529384d21e5997c3da01e58ce68c56&X-Amz-SignedHeaders=host&response-expires=Thu%2C%2011%20Nov%202021%2015%3A04%3A56%20GMT"/>
 
 <div>
   <a href="https://github.com/leticiamossi">
