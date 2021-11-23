@@ -1,4 +1,4 @@
-<img src="https://document-export.canva.com/9ie28/DAEvRn9ie28/149/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20211113%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211113T211559Z&X-Amz-Expires=24537&X-Amz-Signature=29df7b8ec105c44ca12a10c958cff8cd5a68d2405da9b4d588b25f0bcc6b664b&X-Amz-SignedHeaders=host&response-expires=Sun%2C%2014%20Nov%202021%2004%3A04%3A56%20GMT"/>
+<img src="Banner.jpg"/>
 
 <div>
   <a href="https://github.com/leticiamossi">
