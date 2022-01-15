@@ -9,7 +9,7 @@
 ## Olá, me chamo Letícia Mossi!
 
 <ul style="display: inline_block">
-  <li>👩🏻‍🎓 Sou estudante da 2ª fase de Ciência da Computação;</li>
+  <li>👩🏻‍🎓 Sou estudante da 3ª fase de Ciência da Computação;</li>
   <li>📚 Estou estudando Front-End;</li>
   <li>🌎 Santa Catarina, Brasil;</li>
   <li>🦋 Pronomes: ela/dela;</li>
