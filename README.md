@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/leticiamossi">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leticiamossi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leticiamossi&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamossi&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
@@ -21,8 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
  </div>
 
 ### Contatos:
