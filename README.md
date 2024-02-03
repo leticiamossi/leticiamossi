@@ -9,8 +9,7 @@
 ## Olá, me chamo Letícia Mossi!
 
 <ul style="display: inline_block">
-  <li>👩🏻‍🎓 Estudante da 4ª fase de Ciência da Computação;</li>
-  <li>📚 Foco em Front-End;</li>
+  <li>👩🏻‍🎓 Estudante da 7ª fase de Ciência da Computação;</li>
   <li>🌎 Santa Catarina, Brasil;</li>
 </ul>
 
@@ -23,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/python-plain.svg" width="40" height="40"/>
  </div>
 
 ### Contatos:
